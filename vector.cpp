@@ -1,4 +1,6 @@
-#inlclude <math.h>
+#inlclude <iostream>
+#include <math.h>
+
 
 class Vector3{
     public:
